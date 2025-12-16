@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/1482ae3c27b141ddb5569be653141fc1/artifacts
+end_time: 1764783354605
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 1482ae3c27b141ddb5569be653141fc1
+run_name: bright-duck-766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783353609
+status: 3
+tags: []
+user_id: sarahilyas

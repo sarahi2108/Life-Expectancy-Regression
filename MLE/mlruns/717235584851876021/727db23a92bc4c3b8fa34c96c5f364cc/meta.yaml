@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/727db23a92bc4c3b8fa34c96c5f364cc/artifacts
+end_time: 1764783818469
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 727db23a92bc4c3b8fa34c96c5f364cc
+run_name: colorful-bear-160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783817159
+status: 3
+tags: []
+user_id: sarahilyas

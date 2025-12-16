@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/4c6383de9f394fe99f4f17a38cb90d33/artifacts
+end_time: 1764783153382
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 4c6383de9f394fe99f4f17a38cb90d33
+run_name: suave-mare-124
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783152558
+status: 3
+tags: []
+user_id: sarahilyas

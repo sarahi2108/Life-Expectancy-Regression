@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/cb39772191fc47dc8a02c46aa5ebdbfe/artifacts
+end_time: 1764783144525
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: cb39772191fc47dc8a02c46aa5ebdbfe
+run_name: whimsical-wren-870
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783143604
+status: 3
+tags: []
+user_id: sarahilyas

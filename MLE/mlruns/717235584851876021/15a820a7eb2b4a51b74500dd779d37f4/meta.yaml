@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/15a820a7eb2b4a51b74500dd779d37f4/artifacts
+end_time: 1764783070299
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 15a820a7eb2b4a51b74500dd779d37f4
+run_name: smiling-penguin-468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783069355
+status: 3
+tags: []
+user_id: sarahilyas

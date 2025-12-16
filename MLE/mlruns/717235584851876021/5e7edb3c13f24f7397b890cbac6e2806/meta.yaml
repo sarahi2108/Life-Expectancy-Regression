@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/5e7edb3c13f24f7397b890cbac6e2806/artifacts
+end_time: 1764762718173
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 5e7edb3c13f24f7397b890cbac6e2806
+run_name: rogue-flea-47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764762716982
+status: 3
+tags: []
+user_id: sarahilyas

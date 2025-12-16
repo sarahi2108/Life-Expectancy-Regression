@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/1d22191f954f46afa7beb428f309b11e/artifacts
+end_time: 1764764163129
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 1d22191f954f46afa7beb428f309b11e
+run_name: big-stoat-860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764764162802
+status: 3
+tags: []
+user_id: sarahilyas

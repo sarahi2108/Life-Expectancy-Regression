@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/a7f345fc72194f71b2154234e3999a09/artifacts
+end_time: 1764765922762
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: a7f345fc72194f71b2154234e3999a09
+run_name: fun-bird-240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765922003
+status: 3
+tags: []
+user_id: sarahilyas

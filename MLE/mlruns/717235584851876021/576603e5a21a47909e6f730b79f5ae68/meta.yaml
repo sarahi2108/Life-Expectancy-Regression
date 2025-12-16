@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/576603e5a21a47909e6f730b79f5ae68/artifacts
+end_time: 1764783991454
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 576603e5a21a47909e6f730b79f5ae68
+run_name: sneaky-dog-1000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783990556
+status: 3
+tags: []
+user_id: sarahilyas

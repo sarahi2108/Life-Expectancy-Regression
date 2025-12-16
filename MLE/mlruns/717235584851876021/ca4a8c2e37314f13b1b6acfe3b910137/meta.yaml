@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/ca4a8c2e37314f13b1b6acfe3b910137/artifacts
+end_time: 1764783410788
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: ca4a8c2e37314f13b1b6acfe3b910137
+run_name: invincible-owl-822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783409527
+status: 3
+tags: []
+user_id: sarahilyas

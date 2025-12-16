@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/261c0b7f0e89498b8535f98d7ba88f0f/artifacts
+end_time: 1764783422214
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 261c0b7f0e89498b8535f98d7ba88f0f
+run_name: languid-ram-207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783420087
+status: 3
+tags: []
+user_id: sarahilyas

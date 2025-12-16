@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/bc110c1148434add934b2438b91c867e/artifacts
+end_time: 1764783059131
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: bc110c1148434add934b2438b91c867e
+run_name: sedate-mink-955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783058771
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/9cd21f7799b14151abbf4cb30285026e/artifacts
+end_time: 1764764175013
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 9cd21f7799b14151abbf4cb30285026e
+run_name: bouncy-gull-677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764764174456
+status: 3
+tags: []
+user_id: sarahilyas

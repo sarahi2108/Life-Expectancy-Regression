@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/29fd5ce668c94a33bb5797ab9fc80cca/artifacts
+end_time: 1764765941770
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 29fd5ce668c94a33bb5797ab9fc80cca
+run_name: shivering-fowl-791
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765941402
+status: 3
+tags: []
+user_id: sarahilyas

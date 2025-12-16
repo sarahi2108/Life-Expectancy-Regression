@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/3f4ec16ce3994409bb274c568b660cb5/artifacts
+end_time: 1764783962958
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 3f4ec16ce3994409bb274c568b660cb5
+run_name: peaceful-frog-7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783961758
+status: 3
+tags: []
+user_id: sarahilyas

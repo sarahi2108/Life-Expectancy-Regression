@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/ce7580a75a81472594012931888a5aae/artifacts
+end_time: 1764765796931
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: ce7580a75a81472594012931888a5aae
+run_name: best_xgboost_model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765793552
+status: 3
+tags: []
+user_id: sarahilyas

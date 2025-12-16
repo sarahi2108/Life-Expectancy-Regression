@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/a1195611fb1c49f8b4fbc812f4df8891/artifacts
+end_time: 1764764241289
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: a1195611fb1c49f8b4fbc812f4df8891
+run_name: orderly-dove-515
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764764241058
+status: 3
+tags: []
+user_id: sarahilyas

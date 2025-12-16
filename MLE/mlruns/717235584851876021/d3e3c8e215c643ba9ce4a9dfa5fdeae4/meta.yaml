@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/d3e3c8e215c643ba9ce4a9dfa5fdeae4/artifacts
+end_time: 1764783128851
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: d3e3c8e215c643ba9ce4a9dfa5fdeae4
+run_name: gifted-rat-904
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783127992
+status: 3
+tags: []
+user_id: sarahilyas

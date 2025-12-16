@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/26f7d57e2a9046de887a87ac1e02a18e/artifacts
+end_time: 1764765582302
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 26f7d57e2a9046de887a87ac1e02a18e
+run_name: bustling-roo-622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765582143
+status: 3
+tags: []
+user_id: sarahilyas

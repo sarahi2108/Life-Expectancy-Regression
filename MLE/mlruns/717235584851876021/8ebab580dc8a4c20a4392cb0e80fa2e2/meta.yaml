@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/8ebab580dc8a4c20a4392cb0e80fa2e2/artifacts
+end_time: 1764762612029
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 8ebab580dc8a4c20a4392cb0e80fa2e2
+run_name: popular-rat-396
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764762611577
+status: 3
+tags: []
+user_id: sarahilyas

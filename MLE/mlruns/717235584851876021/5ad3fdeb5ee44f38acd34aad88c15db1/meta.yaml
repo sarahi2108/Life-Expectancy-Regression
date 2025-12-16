@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/5ad3fdeb5ee44f38acd34aad88c15db1/artifacts
+end_time: 1764784176598
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 5ad3fdeb5ee44f38acd34aad88c15db1
+run_name: inquisitive-shad-13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764784175624
+status: 3
+tags: []
+user_id: sarahilyas

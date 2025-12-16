@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/95164dc98e85439d93c65298a182a713/artifacts
+end_time: 1764764230219
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 95164dc98e85439d93c65298a182a713
+run_name: selective-snail-970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764764229712
+status: 3
+tags: []
+user_id: sarahilyas

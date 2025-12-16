@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/261c0a49e26648e4812218b15feb88e0/artifacts
+end_time: 1764783871211
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 261c0a49e26648e4812218b15feb88e0
+run_name: shivering-frog-736
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783870597
+status: 3
+tags: []
+user_id: sarahilyas

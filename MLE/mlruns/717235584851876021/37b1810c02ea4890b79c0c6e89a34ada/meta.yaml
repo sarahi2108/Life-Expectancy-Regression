@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/37b1810c02ea4890b79c0c6e89a34ada/artifacts
+end_time: 1764783352529
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 37b1810c02ea4890b79c0c6e89a34ada
+run_name: able-turtle-319
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783351602
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sarahilyas/Life_Expectancy_Regression/src/Training%20Pipeline/mlruns/306852458513944019/0c1c1ce7a2674c518fbf632602ba79bc/artifacts
+end_time: 1765037275105
+entry_point_name: ''
+experiment_id: '306852458513944019'
+lifecycle_stage: active
+run_id: 0c1c1ce7a2674c518fbf632602ba79bc
+run_name: welcoming-hen-834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765037274077
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/a8a1370ee6e84618aee1b49f362c37de/artifacts
+end_time: 1764765583428
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: a8a1370ee6e84618aee1b49f362c37de
+run_name: gentle-duck-395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765583278
+status: 3
+tags: []
+user_id: sarahilyas

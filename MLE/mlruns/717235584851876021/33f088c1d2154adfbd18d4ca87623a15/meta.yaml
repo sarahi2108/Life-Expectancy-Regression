@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/33f088c1d2154adfbd18d4ca87623a15/artifacts
+end_time: 1764784179834
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 33f088c1d2154adfbd18d4ca87623a15
+run_name: placid-bug-249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764784178936
+status: 3
+tags: []
+user_id: sarahilyas

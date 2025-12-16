@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/69f81c229e2346fb823aabbde56cdf41/artifacts
+end_time: 1764783051389
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 69f81c229e2346fb823aabbde56cdf41
+run_name: melodic-carp-706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783050479
+status: 3
+tags: []
+user_id: sarahilyas

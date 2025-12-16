@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/3b66ff5ffb5c4fb38a22ac6d3f29ef75/artifacts
+end_time: 1764783011246
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 3b66ff5ffb5c4fb38a22ac6d3f29ef75
+run_name: capable-hen-106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783010828
+status: 3
+tags: []
+user_id: sarahilyas

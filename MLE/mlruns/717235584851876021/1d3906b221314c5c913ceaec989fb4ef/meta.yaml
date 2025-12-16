@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/1d3906b221314c5c913ceaec989fb4ef/artifacts
+end_time: 1764765535838
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 1d3906b221314c5c913ceaec989fb4ef
+run_name: intrigued-snake-713
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765532877
+status: 3
+tags: []
+user_id: sarahilyas

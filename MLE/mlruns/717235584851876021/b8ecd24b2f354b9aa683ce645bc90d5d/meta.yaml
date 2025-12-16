@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/b8ecd24b2f354b9aa683ce645bc90d5d/artifacts
+end_time: 1764765743826
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: b8ecd24b2f354b9aa683ce645bc90d5d
+run_name: unleashed-cub-322
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765743013
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/dfc02dec3a3f476895b6cea1797cd464/artifacts
+end_time: 1764762680280
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: dfc02dec3a3f476895b6cea1797cd464
+run_name: capricious-shrike-8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764762679541
+status: 3
+tags: []
+user_id: sarahilyas

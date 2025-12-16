@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/d2336abd98854f0d87d61b0e8c56b666/artifacts
+end_time: 1764784097679
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: d2336abd98854f0d87d61b0e8c56b666
+run_name: welcoming-sponge-647
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764784097030
+status: 3
+tags: []
+user_id: sarahilyas

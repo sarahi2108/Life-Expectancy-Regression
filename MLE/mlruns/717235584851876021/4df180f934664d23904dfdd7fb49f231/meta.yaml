@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/4df180f934664d23904dfdd7fb49f231/artifacts
+end_time: 1764783975790
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 4df180f934664d23904dfdd7fb49f231
+run_name: learned-dolphin-322
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783974692
+status: 3
+tags: []
+user_id: sarahilyas

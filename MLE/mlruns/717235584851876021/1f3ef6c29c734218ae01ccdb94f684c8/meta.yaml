@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/1f3ef6c29c734218ae01ccdb94f684c8/artifacts
+end_time: 1764764217446
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 1f3ef6c29c734218ae01ccdb94f684c8
+run_name: smiling-colt-80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764764215969
+status: 3
+tags: []
+user_id: sarahilyas

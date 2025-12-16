@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/c33ec624b6c34906bc0b2a7452f975ad/artifacts
+end_time: 1764762726172
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: c33ec624b6c34906bc0b2a7452f975ad
+run_name: popular-seal-755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764762725766
+status: 3
+tags: []
+user_id: sarahilyas

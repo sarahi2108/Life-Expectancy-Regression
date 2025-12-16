@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/3f5fc6b47b0849b4817f3c04f9b3e00d/artifacts
+end_time: 1764784086523
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 3f5fc6b47b0849b4817f3c04f9b3e00d
+run_name: colorful-rat-784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764784085545
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/b3906f3ba5324b5983f0521a6f74d1f1/artifacts
+end_time: 1764783697075
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: b3906f3ba5324b5983f0521a6f74d1f1
+run_name: puzzled-moose-595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783696369
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/08947d27c86b4ef08221ce9002c8bbc8/artifacts
+end_time: 1764783620742
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 08947d27c86b4ef08221ce9002c8bbc8
+run_name: burly-zebra-290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783619726
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/437b994f6389437b90277381b97c2dcd/artifacts
+end_time: 1764765779367
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 437b994f6389437b90277381b97c2dcd
+run_name: dashing-foal-34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765778361
+status: 3
+tags: []
+user_id: sarahilyas

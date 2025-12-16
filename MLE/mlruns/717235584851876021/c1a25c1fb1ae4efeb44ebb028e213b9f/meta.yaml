@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/c1a25c1fb1ae4efeb44ebb028e213b9f/artifacts
+end_time: 1764783210302
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: c1a25c1fb1ae4efeb44ebb028e213b9f
+run_name: skittish-sloth-426
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783209036
+status: 3
+tags: []
+user_id: sarahilyas

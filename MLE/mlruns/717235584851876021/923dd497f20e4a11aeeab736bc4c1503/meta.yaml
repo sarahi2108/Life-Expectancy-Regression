@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/923dd497f20e4a11aeeab736bc4c1503/artifacts
+end_time: 1764784016001
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 923dd497f20e4a11aeeab736bc4c1503
+run_name: delicate-lamb-650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764784013735
+status: 3
+tags: []
+user_id: sarahilyas

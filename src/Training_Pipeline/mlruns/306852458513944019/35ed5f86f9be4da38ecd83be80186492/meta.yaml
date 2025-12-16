@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sarahilyas/Life_Expectancy_Regression/src/Training%20Pipeline/mlruns/306852458513944019/35ed5f86f9be4da38ecd83be80186492/artifacts
+end_time: 1765037161380
+entry_point_name: ''
+experiment_id: '306852458513944019'
+lifecycle_stage: active
+run_id: 35ed5f86f9be4da38ecd83be80186492
+run_name: clumsy-jay-700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765037161154
+status: 4
+tags: []
+user_id: sarahilyas

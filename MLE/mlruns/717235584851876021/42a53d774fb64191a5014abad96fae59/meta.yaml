@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/42a53d774fb64191a5014abad96fae59/artifacts
+end_time: 1764762147732
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 42a53d774fb64191a5014abad96fae59
+run_name: ambitious-loon-689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764762147411
+status: 3
+tags: []
+user_id: sarahilyas

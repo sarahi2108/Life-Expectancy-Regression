@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/a7ec57df76d7413b9486c49c1fe9ebc1/artifacts
+end_time: 1764765565349
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: a7ec57df76d7413b9486c49c1fe9ebc1
+run_name: melodic-fish-712
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765564458
+status: 3
+tags: []
+user_id: sarahilyas

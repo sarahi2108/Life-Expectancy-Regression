@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/8a2b0fe4498e4a69b80bf6d9d2dfb769/artifacts
+end_time: 1764783526232
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 8a2b0fe4498e4a69b80bf6d9d2dfb769
+run_name: mysterious-bass-737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783525040
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/fbdc0202f1f045199d2eefd1338f2e15/artifacts
+end_time: 1764783173709
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: fbdc0202f1f045199d2eefd1338f2e15
+run_name: popular-gull-504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783172773
+status: 3
+tags: []
+user_id: sarahilyas

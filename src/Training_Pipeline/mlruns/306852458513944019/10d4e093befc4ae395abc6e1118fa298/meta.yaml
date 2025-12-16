@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sarahilyas/Life_Expectancy_Regression/src/Training%20Pipeline/mlruns/306852458513944019/10d4e093befc4ae395abc6e1118fa298/artifacts
+end_time: 1765037279237
+entry_point_name: ''
+experiment_id: '306852458513944019'
+lifecycle_stage: active
+run_id: 10d4e093befc4ae395abc6e1118fa298
+run_name: marvelous-auk-701
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765037279118
+status: 3
+tags: []
+user_id: sarahilyas

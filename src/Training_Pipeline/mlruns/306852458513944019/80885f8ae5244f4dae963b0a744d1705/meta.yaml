@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sarahilyas/Life_Expectancy_Regression/src/Training%20Pipeline/mlruns/306852458513944019/80885f8ae5244f4dae963b0a744d1705/artifacts
+end_time: 1765037280499
+entry_point_name: ''
+experiment_id: '306852458513944019'
+lifecycle_stage: active
+run_id: 80885f8ae5244f4dae963b0a744d1705
+run_name: beautiful-calf-429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765037280181
+status: 3
+tags: []
+user_id: sarahilyas

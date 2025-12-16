@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/a3d403a95e1644eb83c14a214bc059ca/artifacts
+end_time: 1764783735065
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: a3d403a95e1644eb83c14a214bc059ca
+run_name: fun-mare-223
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783734204
+status: 3
+tags: []
+user_id: sarahilyas

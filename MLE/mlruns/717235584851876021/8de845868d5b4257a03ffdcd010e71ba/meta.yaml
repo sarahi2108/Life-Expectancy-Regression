@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/8de845868d5b4257a03ffdcd010e71ba/artifacts
+end_time: 1764783167239
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 8de845868d5b4257a03ffdcd010e71ba
+run_name: enthused-zebra-403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783166358
+status: 3
+tags: []
+user_id: sarahilyas

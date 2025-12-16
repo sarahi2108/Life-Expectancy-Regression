@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/58d49534326942479430a4c71f6eef7a/artifacts
+end_time: 1764765781217
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 58d49534326942479430a4c71f6eef7a
+run_name: orderly-trout-532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765779842
+status: 3
+tags: []
+user_id: sarahilyas

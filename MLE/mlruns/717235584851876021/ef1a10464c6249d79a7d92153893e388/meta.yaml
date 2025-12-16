@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/ef1a10464c6249d79a7d92153893e388/artifacts
+end_time: 1764762692898
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: ef1a10464c6249d79a7d92153893e388
+run_name: skittish-toad-365
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764762692094
+status: 3
+tags: []
+user_id: sarahilyas

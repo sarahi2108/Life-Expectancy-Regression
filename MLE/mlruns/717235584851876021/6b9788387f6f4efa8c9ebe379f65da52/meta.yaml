@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/6b9788387f6f4efa8c9ebe379f65da52/artifacts
+end_time: 1764783402141
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 6b9788387f6f4efa8c9ebe379f65da52
+run_name: sedate-skunk-973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783400785
+status: 3
+tags: []
+user_id: sarahilyas

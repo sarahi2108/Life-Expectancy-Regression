@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/3ff3ba6d05c3486494312cc58ebbf86f/artifacts
+end_time: 1764783506416
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 3ff3ba6d05c3486494312cc58ebbf86f
+run_name: polite-whale-115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783502170
+status: 3
+tags: []
+user_id: sarahilyas

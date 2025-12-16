@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/650d348cc6d246e0be8aa2a4e0b4c8eb/artifacts
+end_time: 1764763933011
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 650d348cc6d246e0be8aa2a4e0b4c8eb
+run_name: traveling-smelt-592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764763932139
+status: 3
+tags: []
+user_id: sarahilyas

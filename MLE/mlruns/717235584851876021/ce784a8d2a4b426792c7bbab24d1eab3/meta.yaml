@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/ce784a8d2a4b426792c7bbab24d1eab3/artifacts
+end_time: 1764783909162
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: ce784a8d2a4b426792c7bbab24d1eab3
+run_name: learned-tern-256
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783907917
+status: 3
+tags: []
+user_id: sarahilyas

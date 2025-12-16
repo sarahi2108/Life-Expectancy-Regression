@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/fafe3f3c6ee14c0e8c51acea8114e3cf/artifacts
+end_time: 1764765586367
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: fafe3f3c6ee14c0e8c51acea8114e3cf
+run_name: flawless-squid-190
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765585988
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/7ceefb2bf4fd4123a8edf4a025babe38/artifacts
+end_time: 1764784140592
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 7ceefb2bf4fd4123a8edf4a025babe38
+run_name: bustling-tern-372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764784139569
+status: 3
+tags: []
+user_id: sarahilyas

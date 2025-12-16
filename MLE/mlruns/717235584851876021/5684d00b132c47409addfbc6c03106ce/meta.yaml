@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/5684d00b132c47409addfbc6c03106ce/artifacts
+end_time: 1764762568035
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 5684d00b132c47409addfbc6c03106ce
+run_name: likeable-colt-127
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764762567110
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/7b9f6194af2841eaa3c35403f8d0312a/artifacts
+end_time: 1764783084574
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 7b9f6194af2841eaa3c35403f8d0312a
+run_name: stylish-hound-918
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783084042
+status: 3
+tags: []
+user_id: sarahilyas

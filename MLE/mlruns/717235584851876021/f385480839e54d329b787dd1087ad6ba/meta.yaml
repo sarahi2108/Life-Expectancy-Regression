@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/f385480839e54d329b787dd1087ad6ba/artifacts
+end_time: 1764783554458
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: f385480839e54d329b787dd1087ad6ba
+run_name: upset-stork-635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783553522
+status: 3
+tags: []
+user_id: sarahilyas

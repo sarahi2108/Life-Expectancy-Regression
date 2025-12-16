@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/65b573b9a11a4a7cb6b0489339255a63/artifacts
+end_time: 1764765579119
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 65b573b9a11a4a7cb6b0489339255a63
+run_name: gregarious-fly-275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765578448
+status: 3
+tags: []
+user_id: sarahilyas

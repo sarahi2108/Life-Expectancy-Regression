@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/10f5f5fabc834e8c89148320e6b86b72/artifacts
+end_time: 1764783112769
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 10f5f5fabc834e8c89148320e6b86b72
+run_name: sedate-bug-802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783111742
+status: 3
+tags: []
+user_id: sarahilyas

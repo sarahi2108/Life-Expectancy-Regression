@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/2bd8d84df3db4bc8badd7c567901cb26/artifacts
+end_time: 1764783263895
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 2bd8d84df3db4bc8badd7c567901cb26
+run_name: carefree-sloth-815
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783262722
+status: 3
+tags: []
+user_id: sarahilyas

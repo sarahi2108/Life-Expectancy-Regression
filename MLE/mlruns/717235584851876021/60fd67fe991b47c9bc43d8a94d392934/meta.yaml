@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/60fd67fe991b47c9bc43d8a94d392934/artifacts
+end_time: 1764762732164
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 60fd67fe991b47c9bc43d8a94d392934
+run_name: puzzled-mole-712
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764762731616
+status: 3
+tags: []
+user_id: sarahilyas

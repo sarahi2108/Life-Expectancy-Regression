@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/8d0e105e1a9d4c98ba48b51d9e6a03c4/artifacts
+end_time: 1764784172320
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 8d0e105e1a9d4c98ba48b51d9e6a03c4
+run_name: burly-grub-447
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764784170640
+status: 3
+tags: []
+user_id: sarahilyas

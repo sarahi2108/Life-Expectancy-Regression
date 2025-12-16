@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/a143ce9fab0d439293bd6b60a59983ed/artifacts
+end_time: 1764783041707
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: a143ce9fab0d439293bd6b60a59983ed
+run_name: charming-mink-276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783041330
+status: 3
+tags: []
+user_id: sarahilyas

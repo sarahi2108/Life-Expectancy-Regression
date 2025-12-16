@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/47feaf340aa34caf85f06fb95b6b9d30/artifacts
+end_time: 1764784183964
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 47feaf340aa34caf85f06fb95b6b9d30
+run_name: spiffy-gull-74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764784182534
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/948a24a6ee264f5593ee66a688961d3e/artifacts
+end_time: 1764763884634
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 948a24a6ee264f5593ee66a688961d3e
+run_name: wise-pug-24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764763882133
+status: 3
+tags: []
+user_id: sarahilyas

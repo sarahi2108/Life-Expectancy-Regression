@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/6b7c797125a5444dbb354ef4f0c51baf/artifacts
+end_time: 1764764170382
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 6b7c797125a5444dbb354ef4f0c51baf
+run_name: colorful-quail-219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764764169159
+status: 3
+tags: []
+user_id: sarahilyas

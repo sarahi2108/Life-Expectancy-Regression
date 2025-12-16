@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/657761a3894a458fadb9f99de4bdee9d/artifacts
+end_time: 1764762613755
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 657761a3894a458fadb9f99de4bdee9d
+run_name: resilient-doe-727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764762613425
+status: 3
+tags: []
+user_id: sarahilyas

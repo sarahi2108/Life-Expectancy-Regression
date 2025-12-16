@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/5df52441e5024cf39d34a56aef38d149/artifacts
+end_time: 1764783462016
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 5df52441e5024cf39d34a56aef38d149
+run_name: clumsy-grub-475
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783461115
+status: 3
+tags: []
+user_id: sarahilyas

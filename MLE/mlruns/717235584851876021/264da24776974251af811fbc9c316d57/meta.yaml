@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/264da24776974251af811fbc9c316d57/artifacts
+end_time: 1764783697988
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 264da24776974251af811fbc9c316d57
+run_name: carefree-yak-22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783697096
+status: 3
+tags: []
+user_id: sarahilyas

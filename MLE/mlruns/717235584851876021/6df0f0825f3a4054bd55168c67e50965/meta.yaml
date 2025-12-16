@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/6df0f0825f3a4054bd55168c67e50965/artifacts
+end_time: 1764784156835
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 6df0f0825f3a4054bd55168c67e50965
+run_name: vaunted-cub-743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764784156228
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sarahilyas/Life_Expectancy_Regression/src/Training%20Pipeline/mlruns/306852458513944019/a051cb02dff742df9ca37168d81cfb6f/artifacts
+end_time: 1765036906103
+entry_point_name: ''
+experiment_id: '306852458513944019'
+lifecycle_stage: active
+run_id: a051cb02dff742df9ca37168d81cfb6f
+run_name: gifted-grouse-295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765036905886
+status: 3
+tags: []
+user_id: sarahilyas

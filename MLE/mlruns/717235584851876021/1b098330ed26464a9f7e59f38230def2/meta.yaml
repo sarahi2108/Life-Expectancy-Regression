@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/1b098330ed26464a9f7e59f38230def2/artifacts
+end_time: 1764783398171
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 1b098330ed26464a9f7e59f38230def2
+run_name: vaunted-grouse-114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783397531
+status: 3
+tags: []
+user_id: sarahilyas

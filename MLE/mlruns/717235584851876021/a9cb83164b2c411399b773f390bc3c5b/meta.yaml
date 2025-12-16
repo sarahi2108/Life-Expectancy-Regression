@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/a9cb83164b2c411399b773f390bc3c5b/artifacts
+end_time: 1764765747230
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: a9cb83164b2c411399b773f390bc3c5b
+run_name: nervous-ram-194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765746515
+status: 3
+tags: []
+user_id: sarahilyas

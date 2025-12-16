@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/bf6e486b55f84f75842a28b3dd85681f/artifacts
+end_time: 1764784188424
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: bf6e486b55f84f75842a28b3dd85681f
+run_name: languid-croc-856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764784187646
+status: 3
+tags: []
+user_id: sarahilyas

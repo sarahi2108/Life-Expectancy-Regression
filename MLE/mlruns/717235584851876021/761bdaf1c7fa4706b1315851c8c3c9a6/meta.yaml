@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/761bdaf1c7fa4706b1315851c8c3c9a6/artifacts
+end_time: 1764783977002
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 761bdaf1c7fa4706b1315851c8c3c9a6
+run_name: learned-grouse-67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783975817
+status: 3
+tags: []
+user_id: sarahilyas

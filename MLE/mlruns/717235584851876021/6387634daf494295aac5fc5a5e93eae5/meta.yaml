@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/6387634daf494295aac5fc5a5e93eae5/artifacts
+end_time: 1764783926282
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 6387634daf494295aac5fc5a5e93eae5
+run_name: skillful-shoat-42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783923989
+status: 3
+tags: []
+user_id: sarahilyas

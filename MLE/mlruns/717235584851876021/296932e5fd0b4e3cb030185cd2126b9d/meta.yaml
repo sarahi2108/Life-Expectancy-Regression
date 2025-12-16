@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/296932e5fd0b4e3cb030185cd2126b9d/artifacts
+end_time: 1764784216935
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 296932e5fd0b4e3cb030185cd2126b9d
+run_name: salty-mole-588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764784216059
+status: 3
+tags: []
+user_id: sarahilyas

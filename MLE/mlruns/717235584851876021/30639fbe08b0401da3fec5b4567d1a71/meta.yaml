@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/30639fbe08b0401da3fec5b4567d1a71/artifacts
+end_time: 1764784245344
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 30639fbe08b0401da3fec5b4567d1a71
+run_name: capricious-wren-565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764784244528
+status: 3
+tags: []
+user_id: sarahilyas

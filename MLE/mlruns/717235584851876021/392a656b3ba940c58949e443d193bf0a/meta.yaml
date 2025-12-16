@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/392a656b3ba940c58949e443d193bf0a/artifacts
+end_time: 1764783838829
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 392a656b3ba940c58949e443d193bf0a
+run_name: fortunate-dove-316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783837495
+status: 3
+tags: []
+user_id: sarahilyas

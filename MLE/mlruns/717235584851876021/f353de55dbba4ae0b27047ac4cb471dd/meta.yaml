@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/f353de55dbba4ae0b27047ac4cb471dd/artifacts
+end_time: 1764784077181
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: f353de55dbba4ae0b27047ac4cb471dd
+run_name: wistful-carp-570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764784075896
+status: 3
+tags: []
+user_id: sarahilyas

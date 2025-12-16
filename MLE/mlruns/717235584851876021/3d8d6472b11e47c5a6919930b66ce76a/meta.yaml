@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/3d8d6472b11e47c5a6919930b66ce76a/artifacts
+end_time: 1764765577565
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 3d8d6472b11e47c5a6919930b66ce76a
+run_name: burly-stag-963
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765577077
+status: 3
+tags: []
+user_id: sarahilyas

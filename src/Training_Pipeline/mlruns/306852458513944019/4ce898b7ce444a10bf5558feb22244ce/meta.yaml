@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sarahilyas/Life_Expectancy_Regression/src/Training%20Pipeline/mlruns/306852458513944019/4ce898b7ce444a10bf5558feb22244ce/artifacts
+end_time: 1765037276367
+entry_point_name: ''
+experiment_id: '306852458513944019'
+lifecycle_stage: active
+run_id: 4ce898b7ce444a10bf5558feb22244ce
+run_name: auspicious-shrew-62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765037275799
+status: 3
+tags: []
+user_id: sarahilyas

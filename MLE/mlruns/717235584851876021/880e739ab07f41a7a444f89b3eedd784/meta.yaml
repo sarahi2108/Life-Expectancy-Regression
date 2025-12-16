@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/880e739ab07f41a7a444f89b3eedd784/artifacts
+end_time: 1764783375457
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 880e739ab07f41a7a444f89b3eedd784
+run_name: smiling-wolf-105
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783374512
+status: 3
+tags: []
+user_id: sarahilyas

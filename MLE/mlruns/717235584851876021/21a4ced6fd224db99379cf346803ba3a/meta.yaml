@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/21a4ced6fd224db99379cf346803ba3a/artifacts
+end_time: 1764765926319
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 21a4ced6fd224db99379cf346803ba3a
+run_name: upset-sponge-545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765925532
+status: 3
+tags: []
+user_id: sarahilyas

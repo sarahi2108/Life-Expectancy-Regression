@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/277d5a1bac204514bfcc562250c9ec30/artifacts
+end_time: 1764783872860
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 277d5a1bac204514bfcc562250c9ec30
+run_name: wistful-ant-106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783871975
+status: 3
+tags: []
+user_id: sarahilyas

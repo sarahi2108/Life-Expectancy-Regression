@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/cf60c455c1cf4d7083362985a1ffc44f/artifacts
+end_time: 1764765702492
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: cf60c455c1cf4d7083362985a1ffc44f
+run_name: salty-fawn-651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765701936
+status: 3
+tags: []
+user_id: sarahilyas

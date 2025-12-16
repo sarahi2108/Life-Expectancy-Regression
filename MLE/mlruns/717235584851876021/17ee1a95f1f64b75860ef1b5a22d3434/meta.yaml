@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/17ee1a95f1f64b75860ef1b5a22d3434/artifacts
+end_time: 1764765573802
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 17ee1a95f1f64b75860ef1b5a22d3434
+run_name: big-perch-112
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765572548
+status: 3
+tags: []
+user_id: sarahilyas

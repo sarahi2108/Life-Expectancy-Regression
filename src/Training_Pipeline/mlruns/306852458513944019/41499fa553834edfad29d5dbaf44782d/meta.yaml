@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sarahilyas/Life_Expectancy_Regression/src/Training%20Pipeline/mlruns/306852458513944019/41499fa553834edfad29d5dbaf44782d/artifacts
+end_time: 1765037279699
+entry_point_name: ''
+experiment_id: '306852458513944019'
+lifecycle_stage: active
+run_id: 41499fa553834edfad29d5dbaf44782d
+run_name: glamorous-elk-968
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765037279536
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/77353732b58f47f99360196decb8c4ff/artifacts
+end_time: 1764783327206
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 77353732b58f47f99360196decb8c4ff
+run_name: debonair-bear-865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783326228
+status: 3
+tags: []
+user_id: sarahilyas

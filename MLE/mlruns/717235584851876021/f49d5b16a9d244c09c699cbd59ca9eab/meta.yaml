@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/f49d5b16a9d244c09c699cbd59ca9eab/artifacts
+end_time: 1764763931634
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: f49d5b16a9d244c09c699cbd59ca9eab
+run_name: melodic-stag-961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764763931200
+status: 3
+tags: []
+user_id: sarahilyas

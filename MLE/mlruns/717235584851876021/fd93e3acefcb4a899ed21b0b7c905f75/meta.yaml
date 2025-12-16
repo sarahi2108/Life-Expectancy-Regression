@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/fd93e3acefcb4a899ed21b0b7c905f75/artifacts
+end_time: 1764784211994
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: fd93e3acefcb4a899ed21b0b7c905f75
+run_name: intelligent-moth-869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764784209048
+status: 3
+tags: []
+user_id: sarahilyas

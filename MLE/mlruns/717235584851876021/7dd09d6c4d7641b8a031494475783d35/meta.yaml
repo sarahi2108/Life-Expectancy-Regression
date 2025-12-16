@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/7dd09d6c4d7641b8a031494475783d35/artifacts
+end_time: 1764783536714
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 7dd09d6c4d7641b8a031494475783d35
+run_name: bustling-seal-858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783535284
+status: 3
+tags: []
+user_id: sarahilyas

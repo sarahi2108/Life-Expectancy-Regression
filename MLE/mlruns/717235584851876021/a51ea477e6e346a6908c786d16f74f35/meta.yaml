@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/a51ea477e6e346a6908c786d16f74f35/artifacts
+end_time: 1764783902383
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: a51ea477e6e346a6908c786d16f74f35
+run_name: kindly-skink-592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783901382
+status: 3
+tags: []
+user_id: sarahilyas

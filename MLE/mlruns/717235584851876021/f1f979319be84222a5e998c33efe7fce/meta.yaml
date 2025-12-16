@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/f1f979319be84222a5e998c33efe7fce/artifacts
+end_time: 1764783705778
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: f1f979319be84222a5e998c33efe7fce
+run_name: omniscient-ape-637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783704186
+status: 3
+tags: []
+user_id: sarahilyas

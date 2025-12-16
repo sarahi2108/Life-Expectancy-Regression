@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/89b3352853584173acbac4c42a5b8c51/artifacts
+end_time: 1764783974666
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 89b3352853584173acbac4c42a5b8c51
+run_name: capable-ray-649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783973777
+status: 3
+tags: []
+user_id: sarahilyas

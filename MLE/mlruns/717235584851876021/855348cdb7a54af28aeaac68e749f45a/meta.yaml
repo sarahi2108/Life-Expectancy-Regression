@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/855348cdb7a54af28aeaac68e749f45a/artifacts
+end_time: 1764783530377
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 855348cdb7a54af28aeaac68e749f45a
+run_name: painted-stork-863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783528832
+status: 3
+tags: []
+user_id: sarahilyas

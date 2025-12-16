@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/a31e001e5d144dbdbd58e394e628c8f7/artifacts
+end_time: 1764783473121
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: a31e001e5d144dbdbd58e394e628c8f7
+run_name: puzzled-fish-216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783472167
+status: 3
+tags: []
+user_id: sarahilyas

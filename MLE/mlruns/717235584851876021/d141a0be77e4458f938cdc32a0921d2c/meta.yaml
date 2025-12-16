@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/d141a0be77e4458f938cdc32a0921d2c/artifacts
+end_time: 1764783054940
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: d141a0be77e4458f938cdc32a0921d2c
+run_name: abrasive-swan-825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783053693
+status: 3
+tags: []
+user_id: sarahilyas

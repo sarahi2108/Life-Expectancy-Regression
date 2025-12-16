@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/23b1d1beb5d2447e942bd050d199737a/artifacts
+end_time: 1764765788572
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 23b1d1beb5d2447e942bd050d199737a
+run_name: thundering-sloth-65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765788023
+status: 3
+tags: []
+user_id: sarahilyas

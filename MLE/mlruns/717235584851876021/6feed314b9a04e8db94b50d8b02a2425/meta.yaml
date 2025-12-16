@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/6feed314b9a04e8db94b50d8b02a2425/artifacts
+end_time: 1764784232031
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 6feed314b9a04e8db94b50d8b02a2425
+run_name: caring-lark-710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764784231504
+status: 3
+tags: []
+user_id: sarahilyas

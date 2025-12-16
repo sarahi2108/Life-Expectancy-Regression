@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/3f2958f3d1904ad7a11a8ad64560e9a9/artifacts
+end_time: 1764765920594
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 3f2958f3d1904ad7a11a8ad64560e9a9
+run_name: unleashed-fawn-662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765919892
+status: 3
+tags: []
+user_id: sarahilyas

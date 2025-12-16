@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/fd772e67f3cf42cf9b9b140fa1ed9b89/artifacts
+end_time: 1764783061181
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: fd772e67f3cf42cf9b9b140fa1ed9b89
+run_name: suave-fox-313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783060458
+status: 3
+tags: []
+user_id: sarahilyas

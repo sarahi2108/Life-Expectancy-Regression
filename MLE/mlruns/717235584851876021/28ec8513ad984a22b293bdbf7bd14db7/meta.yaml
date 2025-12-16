@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/28ec8513ad984a22b293bdbf7bd14db7/artifacts
+end_time: 1764783098027
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 28ec8513ad984a22b293bdbf7bd14db7
+run_name: suave-fish-248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783096767
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/403d7ef9e61647cd85ec5c31561221a8/artifacts
+end_time: 1764783484255
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 403d7ef9e61647cd85ec5c31561221a8
+run_name: amusing-rook-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783483111
+status: 3
+tags: []
+user_id: sarahilyas

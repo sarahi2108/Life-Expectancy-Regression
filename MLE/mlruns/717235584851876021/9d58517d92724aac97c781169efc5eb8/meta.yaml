@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/9d58517d92724aac97c781169efc5eb8/artifacts
+end_time: 1764783368070
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 9d58517d92724aac97c781169efc5eb8
+run_name: kindly-deer-911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783367082
+status: 3
+tags: []
+user_id: sarahilyas

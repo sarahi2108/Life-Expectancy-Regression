@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/e8eec63f24684930a27afac2c071b52a/artifacts
+end_time: 1764783520729
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: e8eec63f24684930a27afac2c071b52a
+run_name: judicious-foal-258
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783520336
+status: 3
+tags: []
+user_id: sarahilyas

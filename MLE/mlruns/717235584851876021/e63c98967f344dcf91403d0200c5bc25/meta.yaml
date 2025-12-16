@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/e63c98967f344dcf91403d0200c5bc25/artifacts
+end_time: 1764783988553
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: e63c98967f344dcf91403d0200c5bc25
+run_name: bemused-grouse-481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783986678
+status: 3
+tags: []
+user_id: sarahilyas

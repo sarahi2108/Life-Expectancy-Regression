@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/5d2c17899e80481090ceb973d7cc61fc/artifacts
+end_time: 1764762722380
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 5d2c17899e80481090ceb973d7cc61fc
+run_name: enchanting-duck-41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764762722012
+status: 3
+tags: []
+user_id: sarahilyas

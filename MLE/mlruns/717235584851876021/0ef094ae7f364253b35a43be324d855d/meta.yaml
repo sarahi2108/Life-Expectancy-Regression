@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/0ef094ae7f364253b35a43be324d855d/artifacts
+end_time: 1764765595275
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 0ef094ae7f364253b35a43be324d855d
+run_name: luxuriant-conch-509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765594867
+status: 3
+tags: []
+user_id: sarahilyas

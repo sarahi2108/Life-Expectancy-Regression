@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/e3e740c222fe4c5bb99c64bf1566290d/artifacts
+end_time: 1764762321147
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: e3e740c222fe4c5bb99c64bf1566290d
+run_name: sedate-snake-792
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764762320705
+status: 3
+tags: []
+user_id: sarahilyas

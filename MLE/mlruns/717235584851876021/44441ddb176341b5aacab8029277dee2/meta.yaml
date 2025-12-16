@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/44441ddb176341b5aacab8029277dee2/artifacts
+end_time: 1764783313845
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 44441ddb176341b5aacab8029277dee2
+run_name: ambitious-quail-175
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783306114
+status: 3
+tags: []
+user_id: sarahilyas

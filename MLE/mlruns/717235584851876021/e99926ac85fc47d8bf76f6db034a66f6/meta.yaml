@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/e99926ac85fc47d8bf76f6db034a66f6/artifacts
+end_time: 1764783051765
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: e99926ac85fc47d8bf76f6db034a66f6
+run_name: thundering-shrew-248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783051398
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/cdc0ea5377784567a8726b8f173c3bab/artifacts
+end_time: 1764764177779
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: cdc0ea5377784567a8726b8f173c3bab
+run_name: auspicious-calf-474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764764177088
+status: 3
+tags: []
+user_id: sarahilyas

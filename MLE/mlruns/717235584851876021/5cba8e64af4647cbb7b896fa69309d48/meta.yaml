@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/5cba8e64af4647cbb7b896fa69309d48/artifacts
+end_time: 1764783342967
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 5cba8e64af4647cbb7b896fa69309d48
+run_name: upbeat-seal-25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783342043
+status: 3
+tags: []
+user_id: sarahilyas

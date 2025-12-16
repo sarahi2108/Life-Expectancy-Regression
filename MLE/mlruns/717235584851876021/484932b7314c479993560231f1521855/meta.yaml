@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/484932b7314c479993560231f1521855/artifacts
+end_time: 1764762690931
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 484932b7314c479993560231f1521855
+run_name: welcoming-grouse-39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764762690334
+status: 3
+tags: []
+user_id: sarahilyas

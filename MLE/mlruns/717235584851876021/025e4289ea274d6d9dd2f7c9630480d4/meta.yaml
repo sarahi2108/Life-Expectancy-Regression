@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/025e4289ea274d6d9dd2f7c9630480d4/artifacts
+end_time: 1764783728810
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 025e4289ea274d6d9dd2f7c9630480d4
+run_name: serious-mink-413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783727961
+status: 3
+tags: []
+user_id: sarahilyas

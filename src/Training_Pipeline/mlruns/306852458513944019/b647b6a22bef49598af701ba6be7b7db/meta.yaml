@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sarahilyas/Life_Expectancy_Regression/src/Training%20Pipeline/mlruns/306852458513944019/b647b6a22bef49598af701ba6be7b7db/artifacts
+end_time: 1765037489364
+entry_point_name: ''
+experiment_id: '306852458513944019'
+lifecycle_stage: active
+run_id: b647b6a22bef49598af701ba6be7b7db
+run_name: unequaled-elk-438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765037489143
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/aafde730ab5448699b3a20252c4489ae/artifacts
+end_time: 1764784135653
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: aafde730ab5448699b3a20252c4489ae
+run_name: peaceful-hawk-866
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764784134736
+status: 3
+tags: []
+user_id: sarahilyas

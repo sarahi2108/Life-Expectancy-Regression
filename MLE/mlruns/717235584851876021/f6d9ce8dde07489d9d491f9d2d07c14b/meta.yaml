@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/f6d9ce8dde07489d9d491f9d2d07c14b/artifacts
+end_time: 1764783418826
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: f6d9ce8dde07489d9d491f9d2d07c14b
+run_name: agreeable-whale-992
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783417440
+status: 3
+tags: []
+user_id: sarahilyas

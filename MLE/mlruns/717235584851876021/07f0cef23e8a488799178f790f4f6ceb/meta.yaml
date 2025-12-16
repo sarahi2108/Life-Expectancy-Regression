@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/07f0cef23e8a488799178f790f4f6ceb/artifacts
+end_time: 1764765967256
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 07f0cef23e8a488799178f790f4f6ceb
+run_name: fortunate-skunk-871
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765966776
+status: 3
+tags: []
+user_id: sarahilyas

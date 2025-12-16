@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/fcb14bdd98f5417abc3124c21c357379/artifacts
+end_time: 1764783482279
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: fcb14bdd98f5417abc3124c21c357379
+run_name: victorious-chimp-154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783480499
+status: 3
+tags: []
+user_id: sarahilyas

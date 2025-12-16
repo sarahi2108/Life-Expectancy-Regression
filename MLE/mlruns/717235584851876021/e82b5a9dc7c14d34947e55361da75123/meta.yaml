@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/e82b5a9dc7c14d34947e55361da75123/artifacts
+end_time: 1764783764043
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: e82b5a9dc7c14d34947e55361da75123
+run_name: nimble-gull-46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783762620
+status: 3
+tags: []
+user_id: sarahilyas

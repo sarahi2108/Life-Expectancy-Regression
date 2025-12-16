@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/fcc3a42bf3e04861b551a584d97c17b2/artifacts
+end_time: 1764784197594
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: fcc3a42bf3e04861b551a584d97c17b2
+run_name: bemused-snake-703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764784196743
+status: 3
+tags: []
+user_id: sarahilyas

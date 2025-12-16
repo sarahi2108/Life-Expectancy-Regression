@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/ea1b21b20d5f49189003a802e3f9b5d2/artifacts
+end_time: 1764783127179
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: ea1b21b20d5f49189003a802e3f9b5d2
+run_name: puzzled-shrike-613
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783126333
+status: 3
+tags: []
+user_id: sarahilyas

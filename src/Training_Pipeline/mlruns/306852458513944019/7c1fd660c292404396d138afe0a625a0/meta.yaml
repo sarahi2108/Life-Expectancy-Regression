@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sarahilyas/Life_Expectancy_Regression/src/Training%20Pipeline/mlruns/306852458513944019/7c1fd660c292404396d138afe0a625a0/artifacts
+end_time: 1765037485308
+entry_point_name: ''
+experiment_id: '306852458513944019'
+lifecycle_stage: active
+run_id: 7c1fd660c292404396d138afe0a625a0
+run_name: rogue-hog-642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765037484768
+status: 3
+tags: []
+user_id: sarahilyas

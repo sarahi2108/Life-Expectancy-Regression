@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/d00bc441199c41bb8da8cdf101846dcb/artifacts
+end_time: 1764762147396
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: d00bc441199c41bb8da8cdf101846dcb
+run_name: gaudy-rook-461
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764762146977
+status: 3
+tags: []
+user_id: sarahilyas

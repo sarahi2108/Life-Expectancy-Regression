@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sarahilyas/Life_Expectancy_Regression/src/Training%20Pipeline/mlruns/306852458513944019/d23a990511964ebfa5e0bff1d9cb82f3/artifacts
+end_time: 1765037490933
+entry_point_name: ''
+experiment_id: '306852458513944019'
+lifecycle_stage: active
+run_id: d23a990511964ebfa5e0bff1d9cb82f3
+run_name: adorable-boar-127
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765037490656
+status: 3
+tags: []
+user_id: sarahilyas

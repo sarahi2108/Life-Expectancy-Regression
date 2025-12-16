@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/ac68f8c4174b43488105df9718d3653a/artifacts
+end_time: 1764783115409
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: ac68f8c4174b43488105df9718d3653a
+run_name: stately-fawn-353
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783114906
+status: 3
+tags: []
+user_id: sarahilyas

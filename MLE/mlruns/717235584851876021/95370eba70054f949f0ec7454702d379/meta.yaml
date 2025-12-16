@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/95370eba70054f949f0ec7454702d379/artifacts
+end_time: 1764765746507
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 95370eba70054f949f0ec7454702d379
+run_name: dapper-flea-792
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765746025
+status: 3
+tags: []
+user_id: sarahilyas

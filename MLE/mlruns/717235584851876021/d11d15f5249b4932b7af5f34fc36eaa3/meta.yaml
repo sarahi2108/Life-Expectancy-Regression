@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/d11d15f5249b4932b7af5f34fc36eaa3/artifacts
+end_time: 1764783616556
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: d11d15f5249b4932b7af5f34fc36eaa3
+run_name: blushing-bird-198
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783615618
+status: 3
+tags: []
+user_id: sarahilyas

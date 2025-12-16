@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/ed62a16b9fb142c4921f04a215f09f26/artifacts
+end_time: 1764783318610
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: ed62a16b9fb142c4921f04a215f09f26
+run_name: traveling-mule-720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783317734
+status: 3
+tags: []
+user_id: sarahilyas

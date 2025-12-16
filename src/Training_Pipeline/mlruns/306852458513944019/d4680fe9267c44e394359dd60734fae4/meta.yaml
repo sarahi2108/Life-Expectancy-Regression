@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sarahilyas/Life_Expectancy_Regression/src/Training%20Pipeline/mlruns/306852458513944019/d4680fe9267c44e394359dd60734fae4/artifacts
+end_time: 1765036904642
+entry_point_name: ''
+experiment_id: '306852458513944019'
+lifecycle_stage: active
+run_id: d4680fe9267c44e394359dd60734fae4
+run_name: unleashed-shrimp-200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765036904423
+status: 3
+tags: []
+user_id: sarahilyas

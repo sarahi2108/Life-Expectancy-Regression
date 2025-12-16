@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/8962f959e92544cfab9a69dcc2f6d839/artifacts
+end_time: 1764765775875
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 8962f959e92544cfab9a69dcc2f6d839
+run_name: rumbling-midge-312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765774316
+status: 3
+tags: []
+user_id: sarahilyas

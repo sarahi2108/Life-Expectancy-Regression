@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/cd7f2cf0e7904c398d9d1c822b538c5a/artifacts
+end_time: 1764783658804
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: cd7f2cf0e7904c398d9d1c822b538c5a
+run_name: thoughtful-stork-805
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783658162
+status: 3
+tags: []
+user_id: sarahilyas

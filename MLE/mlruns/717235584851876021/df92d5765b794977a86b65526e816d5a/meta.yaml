@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/df92d5765b794977a86b65526e816d5a/artifacts
+end_time: 1764783251285
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: df92d5765b794977a86b65526e816d5a
+run_name: legendary-rook-700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783247971
+status: 3
+tags: []
+user_id: sarahilyas

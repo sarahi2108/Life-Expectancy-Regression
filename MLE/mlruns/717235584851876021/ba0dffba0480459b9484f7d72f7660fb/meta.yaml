@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/ba0dffba0480459b9484f7d72f7660fb/artifacts
+end_time: 1764783655821
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: ba0dffba0480459b9484f7d72f7660fb
+run_name: wistful-stork-842
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783655588
+status: 3
+tags: []
+user_id: sarahilyas

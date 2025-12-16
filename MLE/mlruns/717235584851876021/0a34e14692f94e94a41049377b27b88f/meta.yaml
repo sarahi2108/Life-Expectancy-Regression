@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/0a34e14692f94e94a41049377b27b88f/artifacts
+end_time: 1764783613339
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 0a34e14692f94e94a41049377b27b88f
+run_name: youthful-vole-331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783612299
+status: 3
+tags: []
+user_id: sarahilyas

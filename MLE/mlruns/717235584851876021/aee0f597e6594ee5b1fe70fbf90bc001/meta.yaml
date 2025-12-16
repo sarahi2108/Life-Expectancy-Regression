@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/aee0f597e6594ee5b1fe70fbf90bc001/artifacts
+end_time: 1764765729108
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: aee0f597e6594ee5b1fe70fbf90bc001
+run_name: fun-seal-572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765728772
+status: 3
+tags: []
+user_id: sarahilyas

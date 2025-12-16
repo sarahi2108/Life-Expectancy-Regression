@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/5f89c9ab67444417967c853980b8746e/artifacts
+end_time: 1764783998349
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 5f89c9ab67444417967c853980b8746e
+run_name: nebulous-gull-248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783997388
+status: 3
+tags: []
+user_id: sarahilyas

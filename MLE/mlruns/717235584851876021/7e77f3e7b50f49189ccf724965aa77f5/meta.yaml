@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/7e77f3e7b50f49189ccf724965aa77f5/artifacts
+end_time: 1764765718427
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 7e77f3e7b50f49189ccf724965aa77f5
+run_name: unleashed-wren-249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765717321
+status: 3
+tags: []
+user_id: sarahilyas

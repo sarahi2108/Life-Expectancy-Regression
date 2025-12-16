@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/18faf4d718c24b59b5c714205b56d79b/artifacts
+end_time: 1764765740815
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 18faf4d718c24b59b5c714205b56d79b
+run_name: adorable-shrike-189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765740366
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/c878c68b6fc8452c9881a96c6947f1e1/artifacts
+end_time: 1764783321344
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: c878c68b6fc8452c9881a96c6947f1e1
+run_name: stylish-rook-221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783319628
+status: 3
+tags: []
+user_id: sarahilyas

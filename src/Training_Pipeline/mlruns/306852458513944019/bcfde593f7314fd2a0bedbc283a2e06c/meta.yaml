@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sarahilyas/Life_Expectancy_Regression/src/Training%20Pipeline/mlruns/306852458513944019/bcfde593f7314fd2a0bedbc283a2e06c/artifacts
+end_time: 1765036902692
+entry_point_name: ''
+experiment_id: '306852458513944019'
+lifecycle_stage: active
+run_id: bcfde593f7314fd2a0bedbc283a2e06c
+run_name: vaunted-shad-378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765036901821
+status: 3
+tags: []
+user_id: sarahilyas

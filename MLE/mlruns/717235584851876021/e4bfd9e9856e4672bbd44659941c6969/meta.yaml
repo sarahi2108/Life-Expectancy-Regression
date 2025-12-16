@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/e4bfd9e9856e4672bbd44659941c6969/artifacts
+end_time: 1764783579543
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: e4bfd9e9856e4672bbd44659941c6969
+run_name: enchanting-robin-705
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783578859
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sarahilyas/Life_Expectancy_Regression/src/Training%20Pipeline/mlruns/306852458513944019/3535229bac184fc5b9afc21ca495f263/artifacts
+end_time: 1765036905091
+entry_point_name: ''
+experiment_id: '306852458513944019'
+lifecycle_stage: active
+run_id: 3535229bac184fc5b9afc21ca495f263
+run_name: crawling-penguin-741
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765036904650
+status: 3
+tags: []
+user_id: sarahilyas

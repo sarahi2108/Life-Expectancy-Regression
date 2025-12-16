@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/426fc8cd250a4ca182ecedc2638b59b2/artifacts
+end_time: 1764783298384
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 426fc8cd250a4ca182ecedc2638b59b2
+run_name: illustrious-rat-542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783297404
+status: 3
+tags: []
+user_id: sarahilyas

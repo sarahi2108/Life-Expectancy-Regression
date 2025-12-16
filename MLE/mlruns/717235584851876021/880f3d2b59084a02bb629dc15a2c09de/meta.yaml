@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/880f3d2b59084a02bb629dc15a2c09de/artifacts
+end_time: 1764762682834
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 880f3d2b59084a02bb629dc15a2c09de
+run_name: stately-ape-634
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764762681962
+status: 3
+tags: []
+user_id: sarahilyas

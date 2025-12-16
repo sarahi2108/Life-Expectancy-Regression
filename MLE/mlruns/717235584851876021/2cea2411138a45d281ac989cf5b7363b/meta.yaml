@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/2cea2411138a45d281ac989cf5b7363b/artifacts
+end_time: 1764783406055
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 2cea2411138a45d281ac989cf5b7363b
+run_name: mercurial-calf-464
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783405083
+status: 3
+tags: []
+user_id: sarahilyas

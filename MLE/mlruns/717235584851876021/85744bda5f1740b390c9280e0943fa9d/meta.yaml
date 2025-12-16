@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/85744bda5f1740b390c9280e0943fa9d/artifacts
+end_time: 1764783973283
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 85744bda5f1740b390c9280e0943fa9d
+run_name: auspicious-skink-25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783972331
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/dcf230bb14a84b5a860f4f858cf0e832/artifacts
+end_time: 1764765558774
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: dcf230bb14a84b5a860f4f858cf0e832
+run_name: bouncy-wolf-626
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765557543
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sarahilyas/Life_Expectancy_Regression/src/Training%20Pipeline/mlruns/306852458513944019/ef6603434337443484859badf93cae19/artifacts
+end_time: 1765036907675
+entry_point_name: ''
+experiment_id: '306852458513944019'
+lifecycle_stage: active
+run_id: ef6603434337443484859badf93cae19
+run_name: nosy-snail-524
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765036907506
+status: 3
+tags: []
+user_id: sarahilyas

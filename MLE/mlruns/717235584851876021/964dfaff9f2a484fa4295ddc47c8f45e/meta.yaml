@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/964dfaff9f2a484fa4295ddc47c8f45e/artifacts
+end_time: 1764765739982
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 964dfaff9f2a484fa4295ddc47c8f45e
+run_name: thundering-bird-869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765739523
+status: 3
+tags: []
+user_id: sarahilyas

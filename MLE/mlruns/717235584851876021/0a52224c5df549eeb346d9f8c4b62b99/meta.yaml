@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/0a52224c5df549eeb346d9f8c4b62b99/artifacts
+end_time: 1764765774278
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 0a52224c5df549eeb346d9f8c4b62b99
+run_name: rare-squirrel-553
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765773211
+status: 3
+tags: []
+user_id: sarahilyas

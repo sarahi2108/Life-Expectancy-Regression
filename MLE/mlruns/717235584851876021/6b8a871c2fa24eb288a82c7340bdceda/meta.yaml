@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/6b8a871c2fa24eb288a82c7340bdceda/artifacts
+end_time: 1764765589711
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 6b8a871c2fa24eb288a82c7340bdceda
+run_name: nosy-foal-964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765589471
+status: 3
+tags: []
+user_id: sarahilyas

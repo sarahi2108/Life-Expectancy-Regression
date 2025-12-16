@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/c18c7ed4717a4397beccc47aa3e53844/artifacts
+end_time: 1764783691786
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: c18c7ed4717a4397beccc47aa3e53844
+run_name: flawless-frog-356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783690590
+status: 3
+tags: []
+user_id: sarahilyas

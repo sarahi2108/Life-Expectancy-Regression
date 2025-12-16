@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sarahilyas/Life_Expectancy_Regression/src/Training%20Pipeline/mlruns/306852458513944019/b43979d36f534a92ba8a2aeecb259a7a/artifacts
+end_time: 1765037281305
+entry_point_name: ''
+experiment_id: '306852458513944019'
+lifecycle_stage: active
+run_id: b43979d36f534a92ba8a2aeecb259a7a
+run_name: overjoyed-quail-880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765037281188
+status: 3
+tags: []
+user_id: sarahilyas

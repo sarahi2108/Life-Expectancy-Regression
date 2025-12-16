@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/048a3a9a4f4440618ae79e6721a099fb/artifacts
+end_time: 1764783218802
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 048a3a9a4f4440618ae79e6721a099fb
+run_name: mercurial-boar-780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783217911
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/bf945e2f8634433bb6156e8ff39bd444/artifacts
+end_time: 1764765557141
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: bf945e2f8634433bb6156e8ff39bd444
+run_name: agreeable-panda-238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765555819
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/469c2c2d608744669f436c2c8c8fba5c/artifacts
+end_time: 1764765549064
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 469c2c2d608744669f436c2c8c8fba5c
+run_name: merciful-snipe-870
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765547380
+status: 3
+tags: []
+user_id: sarahilyas

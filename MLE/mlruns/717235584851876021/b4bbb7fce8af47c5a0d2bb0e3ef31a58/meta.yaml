@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/b4bbb7fce8af47c5a0d2bb0e3ef31a58/artifacts
+end_time: 1764764203470
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: b4bbb7fce8af47c5a0d2bb0e3ef31a58
+run_name: fearless-fawn-267
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764764202858
+status: 3
+tags: []
+user_id: sarahilyas

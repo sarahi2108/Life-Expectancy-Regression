@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/36f5b65ad3b74a2ba14eb190ea9930e2/artifacts
+end_time: 1764783956431
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 36f5b65ad3b74a2ba14eb190ea9930e2
+run_name: puzzled-skunk-976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783954899
+status: 3
+tags: []
+user_id: sarahilyas

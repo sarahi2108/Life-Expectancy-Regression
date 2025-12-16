@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/8ae678f566704042adc4cebd758e1c72/artifacts
+end_time: 1764783301327
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 8ae678f566704042adc4cebd758e1c72
+run_name: useful-smelt-983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783300496
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/b3f59767b13340b4bd08987d1560fdae/artifacts
+end_time: 1764765951289
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: b3f59767b13340b4bd08987d1560fdae
+run_name: rumbling-foal-22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765949960
+status: 3
+tags: []
+user_id: sarahilyas

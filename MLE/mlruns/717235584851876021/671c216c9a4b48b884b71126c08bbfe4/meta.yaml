@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/671c216c9a4b48b884b71126c08bbfe4/artifacts
+end_time: 1764783035434
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 671c216c9a4b48b884b71126c08bbfe4
+run_name: worried-koi-902
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783035012
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/3264e8e976bf48d2bc021e5c64716c4f/artifacts
+end_time: 1764764228891
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 3264e8e976bf48d2bc021e5c64716c4f
+run_name: dazzling-deer-821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764764228606
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/6e3bd544a9f042088dabdcc212c0cdb8/artifacts
+end_time: 1764762570995
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 6e3bd544a9f042088dabdcc212c0cdb8
+run_name: mercurial-doe-292
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764762570402
+status: 3
+tags: []
+user_id: sarahilyas

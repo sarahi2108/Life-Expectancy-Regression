@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/ed7f3916d62f41f4b020588d9f73cecc/artifacts
+end_time: 1764784268036
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: ed7f3916d62f41f4b020588d9f73cecc
+run_name: fearless-kit-65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764784267248
+status: 3
+tags: []
+user_id: sarahilyas

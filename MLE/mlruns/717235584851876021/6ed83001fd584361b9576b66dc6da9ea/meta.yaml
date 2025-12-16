@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/6ed83001fd584361b9576b66dc6da9ea/artifacts
+end_time: 1764784262426
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 6ed83001fd584361b9576b66dc6da9ea
+run_name: loud-mule-746
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764784261578
+status: 3
+tags: []
+user_id: sarahilyas

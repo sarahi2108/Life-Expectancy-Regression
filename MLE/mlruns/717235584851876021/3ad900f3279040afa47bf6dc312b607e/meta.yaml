@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/3ad900f3279040afa47bf6dc312b607e/artifacts
+end_time: 1764764201774
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 3ad900f3279040afa47bf6dc312b607e
+run_name: bustling-stoat-417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764764200742
+status: 3
+tags: []
+user_id: sarahilyas

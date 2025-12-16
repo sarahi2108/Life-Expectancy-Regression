@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/335b702656854d14a60953e60f8adfe4/artifacts
+end_time: 1764762723967
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 335b702656854d14a60953e60f8adfe4
+run_name: trusting-crow-33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764762723585
+status: 3
+tags: []
+user_id: sarahilyas

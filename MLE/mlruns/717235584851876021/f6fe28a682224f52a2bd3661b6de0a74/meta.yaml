@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/f6fe28a682224f52a2bd3661b6de0a74/artifacts
+end_time: 1764783256950
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: f6fe28a682224f52a2bd3661b6de0a74
+run_name: aged-fish-335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783255015
+status: 3
+tags: []
+user_id: sarahilyas

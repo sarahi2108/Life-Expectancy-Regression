@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/ec53c867ad7143c484b19227a74e312c/artifacts
+end_time: 1764765915770
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: ec53c867ad7143c484b19227a74e312c
+run_name: youthful-shad-983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765914947
+status: 3
+tags: []
+user_id: sarahilyas

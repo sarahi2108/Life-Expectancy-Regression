@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/4e9337d7e5104638bab15139ae8be223/artifacts
+end_time: 1764762571987
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 4e9337d7e5104638bab15139ae8be223
+run_name: colorful-moose-603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764762571003
+status: 3
+tags: []
+user_id: sarahilyas

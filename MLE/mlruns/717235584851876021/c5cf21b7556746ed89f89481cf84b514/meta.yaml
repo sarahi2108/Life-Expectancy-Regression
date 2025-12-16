@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/c5cf21b7556746ed89f89481cf84b514/artifacts
+end_time: 1764783734183
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: c5cf21b7556746ed89f89481cf84b514
+run_name: masked-lamb-227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783733525
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,6 @@
+artifact_location: file:///Users/sarahilyas/Life_Expectancy_Regression/src/Training%20Pipeline/mlruns/306852458513944019
+creation_time: 1765036886811
+experiment_id: '306852458513944019'
+last_update_time: 1765036886811
+lifecycle_stage: active
+name: xgb_hyperparameter_tuning

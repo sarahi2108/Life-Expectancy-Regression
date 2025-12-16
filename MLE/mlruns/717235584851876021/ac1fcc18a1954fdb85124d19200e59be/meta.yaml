@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/ac1fcc18a1954fdb85124d19200e59be/artifacts
+end_time: 1764783995510
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: ac1fcc18a1954fdb85124d19200e59be
+run_name: skillful-cub-949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783994500
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/45047e5329534f0ab64c2856e0b6cbf8/artifacts
+end_time: 1764783970774
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 45047e5329534f0ab64c2856e0b6cbf8
+run_name: blushing-squid-693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783970084
+status: 3
+tags: []
+user_id: sarahilyas

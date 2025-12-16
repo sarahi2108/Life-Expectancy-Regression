@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/7630cc7a85ea48e393f8f02e2d8ae98f/artifacts
+end_time: 1764762146147
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 7630cc7a85ea48e393f8f02e2d8ae98f
+run_name: selective-newt-903
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764762146031
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/c7af50a047c94881845a53d3035037b9/artifacts
+end_time: 1764783058059
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: c7af50a047c94881845a53d3035037b9
+run_name: omniscient-snake-704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783057781
+status: 3
+tags: []
+user_id: sarahilyas

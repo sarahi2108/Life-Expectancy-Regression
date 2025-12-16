@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/a5c3f7f2690e447ca531c3f27dc67620/artifacts
+end_time: 1764762555269
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: a5c3f7f2690e447ca531c3f27dc67620
+run_name: loud-mouse-822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764762553737
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/30fc0b1286c64e99970b53f551691abc/artifacts
+end_time: 1764763861714
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 30fc0b1286c64e99970b53f551691abc
+run_name: resilient-carp-671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764763861202
+status: 3
+tags: []
+user_id: sarahilyas

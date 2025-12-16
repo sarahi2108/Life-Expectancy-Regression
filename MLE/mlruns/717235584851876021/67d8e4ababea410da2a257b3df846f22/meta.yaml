@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/67d8e4ababea410da2a257b3df846f22/artifacts
+end_time: 1764783863097
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 67d8e4ababea410da2a257b3df846f22
+run_name: defiant-shrike-502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783858945
+status: 3
+tags: []
+user_id: sarahilyas

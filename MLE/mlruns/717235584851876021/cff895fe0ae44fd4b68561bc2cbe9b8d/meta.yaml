@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/cff895fe0ae44fd4b68561bc2cbe9b8d/artifacts
+end_time: 1764762144388
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: cff895fe0ae44fd4b68561bc2cbe9b8d
+run_name: charming-snake-633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764762144227
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sarahilyas/Life_Expectancy_Regression/src/Training%20Pipeline/mlruns/306852458513944019/1910c5d9e92049c29c1d968d45947d47/artifacts
+end_time: 1765037281767
+entry_point_name: ''
+experiment_id: '306852458513944019'
+lifecycle_stage: active
+run_id: 1910c5d9e92049c29c1d968d45947d47
+run_name: clumsy-penguin-355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765037281633
+status: 3
+tags: []
+user_id: sarahilyas

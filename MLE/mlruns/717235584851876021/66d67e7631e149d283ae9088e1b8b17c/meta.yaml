@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/66d67e7631e149d283ae9088e1b8b17c/artifacts
+end_time: 1764784139543
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 66d67e7631e149d283ae9088e1b8b17c
+run_name: lyrical-goose-289
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764784138582
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sarahilyas/Life_Expectancy_Regression/src/Training%20Pipeline/mlruns/306852458513944019/6c79188c2d9140ab84af5c8a423151b9/artifacts
+end_time: 1765037281180
+entry_point_name: ''
+experiment_id: '306852458513944019'
+lifecycle_stage: active
+run_id: 6c79188c2d9140ab84af5c8a423151b9
+run_name: casual-bird-905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765037281063
+status: 3
+tags: []
+user_id: sarahilyas

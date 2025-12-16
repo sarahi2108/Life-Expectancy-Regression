@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/9b1d6e3efdb742e0bd60e841ba029fa9/artifacts
+end_time: 1764783236902
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 9b1d6e3efdb742e0bd60e841ba029fa9
+run_name: mercurial-skunk-113
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783235862
+status: 3
+tags: []
+user_id: sarahilyas

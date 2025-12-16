@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/9db4954d9a0d437487b590fe3b82912f/artifacts
+end_time: 1764783857610
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 9db4954d9a0d437487b590fe3b82912f
+run_name: likeable-bee-40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783854663
+status: 3
+tags: []
+user_id: sarahilyas

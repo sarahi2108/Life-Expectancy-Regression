@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/271b5c9a575d48918557086abceb8f61/artifacts
+end_time: 1764783237972
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 271b5c9a575d48918557086abceb8f61
+run_name: clean-snake-755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783236919
+status: 3
+tags: []
+user_id: sarahilyas

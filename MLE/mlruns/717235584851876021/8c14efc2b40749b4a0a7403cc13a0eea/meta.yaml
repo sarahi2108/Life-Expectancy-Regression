@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/8c14efc2b40749b4a0a7403cc13a0eea/artifacts
+end_time: 1764783454542
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 8c14efc2b40749b4a0a7403cc13a0eea
+run_name: rogue-fish-657
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783453910
+status: 3
+tags: []
+user_id: sarahilyas

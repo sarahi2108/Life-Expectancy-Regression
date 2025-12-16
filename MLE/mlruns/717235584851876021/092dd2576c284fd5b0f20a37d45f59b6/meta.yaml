@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/092dd2576c284fd5b0f20a37d45f59b6/artifacts
+end_time: 1764783566258
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 092dd2576c284fd5b0f20a37d45f59b6
+run_name: worried-toad-580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783564364
+status: 3
+tags: []
+user_id: sarahilyas

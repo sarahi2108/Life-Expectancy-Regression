@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/08c162894a4948fab9820a2fe33a384c/artifacts
+end_time: 1764763872607
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 08c162894a4948fab9820a2fe33a384c
+run_name: sedate-grub-865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764763868314
+status: 3
+tags: []
+user_id: sarahilyas

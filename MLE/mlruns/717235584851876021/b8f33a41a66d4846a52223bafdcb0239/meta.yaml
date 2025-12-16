@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/b8f33a41a66d4846a52223bafdcb0239/artifacts
+end_time: 1764763903763
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: b8f33a41a66d4846a52223bafdcb0239
+run_name: bald-mole-691
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764763903389
+status: 3
+tags: []
+user_id: sarahilyas

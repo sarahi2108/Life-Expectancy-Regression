@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/84cd3b7627914fd4a739b43121ee2bcc/artifacts
+end_time: 1764765957161
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 84cd3b7627914fd4a739b43121ee2bcc
+run_name: funny-quail-775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765956368
+status: 3
+tags: []
+user_id: sarahilyas

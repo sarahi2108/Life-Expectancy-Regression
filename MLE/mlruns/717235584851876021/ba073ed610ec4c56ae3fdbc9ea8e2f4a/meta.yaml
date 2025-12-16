@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/ba073ed610ec4c56ae3fdbc9ea8e2f4a/artifacts
+end_time: 1764783283520
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: ba073ed610ec4c56ae3fdbc9ea8e2f4a
+run_name: dapper-perch-563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783282554
+status: 3
+tags: []
+user_id: sarahilyas

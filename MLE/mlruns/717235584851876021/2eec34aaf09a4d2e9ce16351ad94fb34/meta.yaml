@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/2eec34aaf09a4d2e9ce16351ad94fb34/artifacts
+end_time: 1764763862560
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 2eec34aaf09a4d2e9ce16351ad94fb34
+run_name: worried-panda-892
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764763861716
+status: 3
+tags: []
+user_id: sarahilyas

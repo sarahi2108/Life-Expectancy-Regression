@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/0d04684564464256ab495f1eaad9d236/artifacts
+end_time: 1764765962950
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 0d04684564464256ab495f1eaad9d236
+run_name: thundering-deer-565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765962388
+status: 3
+tags: []
+user_id: sarahilyas

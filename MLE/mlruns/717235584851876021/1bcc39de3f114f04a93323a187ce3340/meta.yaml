@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/1bcc39de3f114f04a93323a187ce3340/artifacts
+end_time: 1764765767822
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 1bcc39de3f114f04a93323a187ce3340
+run_name: sincere-worm-461
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765767151
+status: 3
+tags: []
+user_id: sarahilyas

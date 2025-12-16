@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/682cfb3c471e45d1843041b7fb677cfc/artifacts
+end_time: 1764783166344
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 682cfb3c471e45d1843041b7fb677cfc
+run_name: trusting-horse-9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783165355
+status: 3
+tags: []
+user_id: sarahilyas

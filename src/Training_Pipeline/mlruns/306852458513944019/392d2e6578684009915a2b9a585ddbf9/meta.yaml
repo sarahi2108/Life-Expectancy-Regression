@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sarahilyas/Life_Expectancy_Regression/src/Training%20Pipeline/mlruns/306852458513944019/392d2e6578684009915a2b9a585ddbf9/artifacts
+end_time: 1765037277209
+entry_point_name: ''
+experiment_id: '306852458513944019'
+lifecycle_stage: active
+run_id: 392d2e6578684009915a2b9a585ddbf9
+run_name: amazing-cow-361
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765037276845
+status: 3
+tags: []
+user_id: sarahilyas

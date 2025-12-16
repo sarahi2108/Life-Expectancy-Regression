@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/3ca1b1499352486eba1d03b4d2cc9b8b/artifacts
+end_time: 1764783831983
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 3ca1b1499352486eba1d03b4d2cc9b8b
+run_name: indecisive-panda-738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783830892
+status: 3
+tags: []
+user_id: sarahilyas

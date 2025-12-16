@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/d9e2d20c58cc48a1bd0eb99e0cb3bff2/artifacts
+end_time: 1764783199173
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: d9e2d20c58cc48a1bd0eb99e0cb3bff2
+run_name: bittersweet-dog-655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783198171
+status: 3
+tags: []
+user_id: sarahilyas

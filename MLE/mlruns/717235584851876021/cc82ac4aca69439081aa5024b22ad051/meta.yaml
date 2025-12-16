@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/cc82ac4aca69439081aa5024b22ad051/artifacts
+end_time: 1764783299451
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: cc82ac4aca69439081aa5024b22ad051
+run_name: popular-midge-793
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783298399
+status: 3
+tags: []
+user_id: sarahilyas

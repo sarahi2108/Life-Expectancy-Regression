@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/1f8815a703764a4d804bc32dfa3c8c98/artifacts
+end_time: 1764783124818
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 1f8815a703764a4d804bc32dfa3c8c98
+run_name: nebulous-tern-222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783124021
+status: 3
+tags: []
+user_id: sarahilyas

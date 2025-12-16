@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/ddfe9526b6864327a091b903d5bc1e68/artifacts
+end_time: 1764762613423
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: ddfe9526b6864327a091b903d5bc1e68
+run_name: sedate-bass-184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764762613159
+status: 3
+tags: []
+user_id: sarahilyas

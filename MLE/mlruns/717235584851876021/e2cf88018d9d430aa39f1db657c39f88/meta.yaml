@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/e2cf88018d9d430aa39f1db657c39f88/artifacts
+end_time: 1764784146533
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: e2cf88018d9d430aa39f1db657c39f88
+run_name: mysterious-hawk-403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764784145656
+status: 3
+tags: []
+user_id: sarahilyas

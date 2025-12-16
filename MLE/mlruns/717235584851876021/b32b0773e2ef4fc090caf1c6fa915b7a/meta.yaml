@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/b32b0773e2ef4fc090caf1c6fa915b7a/artifacts
+end_time: 1764764162259
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: b32b0773e2ef4fc090caf1c6fa915b7a
+run_name: shivering-bat-226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764764161110
+status: 3
+tags: []
+user_id: sarahilyas

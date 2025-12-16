@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/5aa95b902637457fb978c68067df2740/artifacts
+end_time: 1764784152752
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 5aa95b902637457fb978c68067df2740
+run_name: suave-rat-690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764784151850
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sarahilyas/Life_Expectancy_Regression/src/Training%20Pipeline/mlruns/306852458513944019/48b3a75ac8ff4223b7ff91f9bd68165c/artifacts
+end_time: 1765036908433
+entry_point_name: ''
+experiment_id: '306852458513944019'
+lifecycle_stage: active
+run_id: 48b3a75ac8ff4223b7ff91f9bd68165c
+run_name: dazzling-pug-663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765036908151
+status: 3
+tags: []
+user_id: sarahilyas

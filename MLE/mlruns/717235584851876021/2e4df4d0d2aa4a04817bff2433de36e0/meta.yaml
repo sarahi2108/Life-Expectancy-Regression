@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/2e4df4d0d2aa4a04817bff2433de36e0/artifacts
+end_time: 1764765741329
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 2e4df4d0d2aa4a04817bff2433de36e0
+run_name: unruly-ram-406
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765740824
+status: 3
+tags: []
+user_id: sarahilyas

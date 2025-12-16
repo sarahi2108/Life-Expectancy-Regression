@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/a853da05cd3c4de6af9b3e4e8ea730d0/artifacts
+end_time: 1764783617565
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: a853da05cd3c4de6af9b3e4e8ea730d0
+run_name: wistful-bass-812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783616578
+status: 3
+tags: []
+user_id: sarahilyas

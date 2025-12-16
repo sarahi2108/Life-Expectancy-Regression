@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/51b9abd669d24e9db037b5f70326680b/artifacts
+end_time: 1764762704865
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 51b9abd669d24e9db037b5f70326680b
+run_name: blushing-ape-321
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764762704034
+status: 3
+tags: []
+user_id: sarahilyas

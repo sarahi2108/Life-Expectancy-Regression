@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/38ab5ddb09a144b69cb17ee558e7a855/artifacts
+end_time: 1764765790780
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 38ab5ddb09a144b69cb17ee558e7a855
+run_name: selective-deer-885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765790249
+status: 3
+tags: []
+user_id: sarahilyas

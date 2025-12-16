@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/8e79bd2775c44fd39e2cd07c9f9874bc/artifacts
+end_time: 1764763877561
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 8e79bd2775c44fd39e2cd07c9f9874bc
+run_name: dazzling-skunk-845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764763876853
+status: 3
+tags: []
+user_id: sarahilyas

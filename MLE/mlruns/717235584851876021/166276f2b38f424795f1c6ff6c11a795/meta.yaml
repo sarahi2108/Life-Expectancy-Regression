@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/166276f2b38f424795f1c6ff6c11a795/artifacts
+end_time: 1764763906549
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 166276f2b38f424795f1c6ff6c11a795
+run_name: blushing-perch-270
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764763906014
+status: 3
+tags: []
+user_id: sarahilyas

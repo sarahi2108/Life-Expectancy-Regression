@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/cf202bfca2384b1e94b446c873720346/artifacts
+end_time: 1764783171806
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: cf202bfca2384b1e94b446c873720346
+run_name: polite-sow-435
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783170949
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/8affbddb67654f22a4fc3473026ed249/artifacts
+end_time: 1764784130443
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 8affbddb67654f22a4fc3473026ed249
+run_name: aged-worm-812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764784129523
+status: 3
+tags: []
+user_id: sarahilyas

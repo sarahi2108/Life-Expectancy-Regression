@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/f42c9c8b9c6c4ee789367edcf878e05c/artifacts
+end_time: 1764783359484
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: f42c9c8b9c6c4ee789367edcf878e05c
+run_name: judicious-wren-695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783358535
+status: 3
+tags: []
+user_id: sarahilyas

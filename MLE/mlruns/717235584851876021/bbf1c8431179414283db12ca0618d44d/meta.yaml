@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/bbf1c8431179414283db12ca0618d44d/artifacts
+end_time: 1764763895293
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: bbf1c8431179414283db12ca0618d44d
+run_name: rare-stag-274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764763892842
+status: 3
+tags: []
+user_id: sarahilyas

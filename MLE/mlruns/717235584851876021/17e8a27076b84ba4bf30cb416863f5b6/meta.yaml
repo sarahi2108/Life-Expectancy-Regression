@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/17e8a27076b84ba4bf30cb416863f5b6/artifacts
+end_time: 1764783090622
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 17e8a27076b84ba4bf30cb416863f5b6
+run_name: merciful-owl-99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783089830
+status: 3
+tags: []
+user_id: sarahilyas

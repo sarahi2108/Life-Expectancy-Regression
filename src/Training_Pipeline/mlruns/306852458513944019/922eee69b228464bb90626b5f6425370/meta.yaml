@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sarahilyas/Life_Expectancy_Regression/src/Training%20Pipeline/mlruns/306852458513944019/922eee69b228464bb90626b5f6425370/artifacts
+end_time: 1765036887346
+entry_point_name: ''
+experiment_id: '306852458513944019'
+lifecycle_stage: active
+run_id: 922eee69b228464bb90626b5f6425370
+run_name: invincible-grub-384
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765036886932
+status: 4
+tags: []
+user_id: sarahilyas

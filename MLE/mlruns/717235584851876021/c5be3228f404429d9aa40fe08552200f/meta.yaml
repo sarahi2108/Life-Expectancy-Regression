@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/c5be3228f404429d9aa40fe08552200f/artifacts
+end_time: 1764764228276
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: c5be3228f404429d9aa40fe08552200f
+run_name: handsome-skunk-695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764764227938
+status: 3
+tags: []
+user_id: sarahilyas

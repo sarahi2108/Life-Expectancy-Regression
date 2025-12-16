@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/f7ace2410df2496d80dbfca264d99d2f/artifacts
+end_time: 1764783169076
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: f7ace2410df2496d80dbfca264d99d2f
+run_name: incongruous-foal-935
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783168161
+status: 3
+tags: []
+user_id: sarahilyas

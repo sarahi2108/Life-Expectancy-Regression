@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/942c3cb1512f485fbede15627f1f7111/artifacts
+end_time: 1764765720916
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 942c3cb1512f485fbede15627f1f7111
+run_name: righteous-doe-591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765720326
+status: 3
+tags: []
+user_id: sarahilyas

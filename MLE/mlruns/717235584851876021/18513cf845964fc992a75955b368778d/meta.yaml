@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/18513cf845964fc992a75955b368778d/artifacts
+end_time: 1764784252367
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 18513cf845964fc992a75955b368778d
+run_name: upset-shoat-796
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764784251516
+status: 3
+tags: []
+user_id: sarahilyas

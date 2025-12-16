@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/39b879a8a6ce44dbb231631c9e648800/artifacts
+end_time: 1764762559391
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 39b879a8a6ce44dbb231631c9e648800
+run_name: capable-finch-275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764762558070
+status: 3
+tags: []
+user_id: sarahilyas

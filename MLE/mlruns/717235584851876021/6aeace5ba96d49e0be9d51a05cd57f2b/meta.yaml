@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/6aeace5ba96d49e0be9d51a05cd57f2b/artifacts
+end_time: 1764784246244
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 6aeace5ba96d49e0be9d51a05cd57f2b
+run_name: sneaky-ape-2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764784245369
+status: 3
+tags: []
+user_id: sarahilyas

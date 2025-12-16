@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/5ca0fb0722ef467d8649a973a8818387/artifacts
+end_time: 1764762724758
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 5ca0fb0722ef467d8649a973a8818387
+run_name: debonair-lynx-890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764762724380
+status: 3
+tags: []
+user_id: sarahilyas

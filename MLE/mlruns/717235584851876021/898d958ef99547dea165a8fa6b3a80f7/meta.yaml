@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/898d958ef99547dea165a8fa6b3a80f7/artifacts
+end_time: 1764783231791
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 898d958ef99547dea165a8fa6b3a80f7
+run_name: trusting-goose-150
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783221633
+status: 3
+tags: []
+user_id: sarahilyas

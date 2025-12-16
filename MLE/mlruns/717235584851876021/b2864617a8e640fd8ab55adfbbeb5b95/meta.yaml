@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/b2864617a8e640fd8ab55adfbbeb5b95/artifacts
+end_time: 1764783287512
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: b2864617a8e640fd8ab55adfbbeb5b95
+run_name: funny-rat-499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783286354
+status: 3
+tags: []
+user_id: sarahilyas

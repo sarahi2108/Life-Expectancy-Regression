@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/28cd75f9ee12415dad78db8734499537/artifacts
+end_time: 1764765568271
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 28cd75f9ee12415dad78db8734499537
+run_name: crawling-shrimp-627
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765566399
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/30ac49f964b94b04b3388c347762c887/artifacts
+end_time: 1764764230588
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 30ac49f964b94b04b3388c347762c887
+run_name: mysterious-shad-681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764764230229
+status: 3
+tags: []
+user_id: sarahilyas

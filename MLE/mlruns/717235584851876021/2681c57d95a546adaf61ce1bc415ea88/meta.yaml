@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/2681c57d95a546adaf61ce1bc415ea88/artifacts
+end_time: 1764783682450
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 2681c57d95a546adaf61ce1bc415ea88
+run_name: welcoming-rook-133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783681345
+status: 3
+tags: []
+user_id: sarahilyas

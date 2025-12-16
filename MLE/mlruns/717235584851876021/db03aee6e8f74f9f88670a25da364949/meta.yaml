@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/db03aee6e8f74f9f88670a25da364949/artifacts
+end_time: 1764783501028
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: db03aee6e8f74f9f88670a25da364949
+run_name: redolent-seal-455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783499920
+status: 3
+tags: []
+user_id: sarahilyas

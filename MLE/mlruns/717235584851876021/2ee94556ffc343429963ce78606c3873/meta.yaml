@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/2ee94556ffc343429963ce78606c3873/artifacts
+end_time: 1764763905019
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 2ee94556ffc343429963ce78606c3873
+run_name: likeable-snail-669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764763904323
+status: 3
+tags: []
+user_id: sarahilyas

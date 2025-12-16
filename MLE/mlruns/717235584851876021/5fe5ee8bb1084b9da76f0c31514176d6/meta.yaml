@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/5fe5ee8bb1084b9da76f0c31514176d6/artifacts
+end_time: 1764783326212
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 5fe5ee8bb1084b9da76f0c31514176d6
+run_name: learned-deer-797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783325305
+status: 3
+tags: []
+user_id: sarahilyas

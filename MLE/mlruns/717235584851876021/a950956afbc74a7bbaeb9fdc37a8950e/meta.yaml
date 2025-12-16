@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/a950956afbc74a7bbaeb9fdc37a8950e/artifacts
+end_time: 1764765542049
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: a950956afbc74a7bbaeb9fdc37a8950e
+run_name: beautiful-gull-739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765539781
+status: 3
+tags: []
+user_id: sarahilyas

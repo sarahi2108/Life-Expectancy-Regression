@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/dce37606360747868ff16e5a9f2becd0/artifacts
+end_time: 1764783740145
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: dce37606360747868ff16e5a9f2becd0
+run_name: nervous-worm-15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783739345
+status: 3
+tags: []
+user_id: sarahilyas

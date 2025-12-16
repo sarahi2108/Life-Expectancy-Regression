@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sarahilyas/Life_Expectancy_Regression/src/Training%20Pipeline/mlruns/306852458513944019/c61c2a56927244b99155590ed266d4cb/artifacts
+end_time: 1765037278233
+entry_point_name: ''
+experiment_id: '306852458513944019'
+lifecycle_stage: active
+run_id: c61c2a56927244b99155590ed266d4cb
+run_name: delightful-koi-985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765037277858
+status: 3
+tags: []
+user_id: sarahilyas

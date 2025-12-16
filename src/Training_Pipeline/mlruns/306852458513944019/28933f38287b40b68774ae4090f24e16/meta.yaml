@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sarahilyas/Life_Expectancy_Regression/src/Training%20Pipeline/mlruns/306852458513944019/28933f38287b40b68774ae4090f24e16/artifacts
+end_time: 1765036900170
+entry_point_name: ''
+experiment_id: '306852458513944019'
+lifecycle_stage: active
+run_id: 28933f38287b40b68774ae4090f24e16
+run_name: rogue-lynx-81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765036899771
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/40d357d289c2489eab5df293b909f394/artifacts
+end_time: 1764783802489
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 40d357d289c2489eab5df293b909f394
+run_name: redolent-mole-142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783801057
+status: 3
+tags: []
+user_id: sarahilyas

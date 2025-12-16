@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sarahilyas/Life_Expectancy_Regression/src/Training%20Pipeline/mlruns/306852458513944019/29feb185e7da4388ae39d8a1ca56f57a/artifacts
+end_time: 1765036906561
+entry_point_name: ''
+experiment_id: '306852458513944019'
+lifecycle_stage: active
+run_id: 29feb185e7da4388ae39d8a1ca56f57a
+run_name: mercurial-dog-234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765036906389
+status: 3
+tags: []
+user_id: sarahilyas

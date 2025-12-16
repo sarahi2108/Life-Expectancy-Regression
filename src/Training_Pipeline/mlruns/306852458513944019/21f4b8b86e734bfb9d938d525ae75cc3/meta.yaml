@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sarahilyas/Life_Expectancy_Regression/src/Training%20Pipeline/mlruns/306852458513944019/21f4b8b86e734bfb9d938d525ae75cc3/artifacts
+end_time: 1765037482678
+entry_point_name: ''
+experiment_id: '306852458513944019'
+lifecycle_stage: active
+run_id: 21f4b8b86e734bfb9d938d525ae75cc3
+run_name: dazzling-steed-636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765037482555
+status: 3
+tags: []
+user_id: sarahilyas

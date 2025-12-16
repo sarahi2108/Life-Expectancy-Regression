@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/4123f5e2743b4c5dbda256532ffb681e/artifacts
+end_time: 1764765903729
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 4123f5e2743b4c5dbda256532ffb681e
+run_name: defiant-shark-710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765901902
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/a89268b5408a4dbb81233707daa00fe8/artifacts
+end_time: 1764762567094
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: a89268b5408a4dbb81233707daa00fe8
+run_name: dashing-dog-814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764762566398
+status: 3
+tags: []
+user_id: sarahilyas

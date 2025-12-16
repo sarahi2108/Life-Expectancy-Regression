@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/faca7beeb401493c940fa4f3b05ee8ca/artifacts
+end_time: 1764783400760
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: faca7beeb401493c940fa4f3b05ee8ca
+run_name: agreeable-newt-92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783399610
+status: 3
+tags: []
+user_id: sarahilyas

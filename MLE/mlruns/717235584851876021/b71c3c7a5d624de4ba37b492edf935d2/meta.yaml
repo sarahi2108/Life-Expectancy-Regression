@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/b71c3c7a5d624de4ba37b492edf935d2/artifacts
+end_time: 1764765932967
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: b71c3c7a5d624de4ba37b492edf935d2
+run_name: delicate-dog-556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765932324
+status: 3
+tags: []
+user_id: sarahilyas

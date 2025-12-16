@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/671541ae400d411483094a607bbed9cf/artifacts
+end_time: 1764763875593
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 671541ae400d411483094a607bbed9cf
+run_name: bemused-shark-329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764763874943
+status: 3
+tags: []
+user_id: sarahilyas

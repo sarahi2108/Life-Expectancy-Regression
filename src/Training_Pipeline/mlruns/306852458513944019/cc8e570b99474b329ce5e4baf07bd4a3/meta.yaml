@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sarahilyas/Life_Expectancy_Regression/src/Training%20Pipeline/mlruns/306852458513944019/cc8e570b99474b329ce5e4baf07bd4a3/artifacts
+end_time: 1765037280173
+entry_point_name: ''
+experiment_id: '306852458513944019'
+lifecycle_stage: active
+run_id: cc8e570b99474b329ce5e4baf07bd4a3
+run_name: colorful-ox-229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765037279954
+status: 3
+tags: []
+user_id: sarahilyas

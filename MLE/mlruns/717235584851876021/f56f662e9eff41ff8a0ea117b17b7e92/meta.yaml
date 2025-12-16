@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/f56f662e9eff41ff8a0ea117b17b7e92/artifacts
+end_time: 1764763896021
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: f56f662e9eff41ff8a0ea117b17b7e92
+run_name: defiant-eel-758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764763895301
+status: 3
+tags: []
+user_id: sarahilyas

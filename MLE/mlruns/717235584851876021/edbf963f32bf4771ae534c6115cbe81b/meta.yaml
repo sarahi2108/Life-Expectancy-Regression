@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/edbf963f32bf4771ae534c6115cbe81b/artifacts
+end_time: 1764783164434
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: edbf963f32bf4771ae534c6115cbe81b
+run_name: glamorous-dove-119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783163723
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/4a662f1bd563447dbe429e347b3048b5/artifacts
+end_time: 1764784265107
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 4a662f1bd563447dbe429e347b3048b5
+run_name: auspicious-fox-28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764784264344
+status: 3
+tags: []
+user_id: sarahilyas

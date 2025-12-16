@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/277df4c896ff4df68ea70aa1b4f107c7/artifacts
+end_time: 1764784216031
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 277df4c896ff4df68ea70aa1b4f107c7
+run_name: merciful-shark-853
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764784215193
+status: 3
+tags: []
+user_id: sarahilyas

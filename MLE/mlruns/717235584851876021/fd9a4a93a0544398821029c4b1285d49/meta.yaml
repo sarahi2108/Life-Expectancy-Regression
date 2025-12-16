@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/fd9a4a93a0544398821029c4b1285d49/artifacts
+end_time: 1764762698853
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: fd9a4a93a0544398821029c4b1285d49
+run_name: gregarious-crane-99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764762698161
+status: 3
+tags: []
+user_id: sarahilyas

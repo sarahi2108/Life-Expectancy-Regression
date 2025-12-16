@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/760f6e4c65ed42afafa352b760ba0a96/artifacts
+end_time: 1764783843350
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 760f6e4c65ed42afafa352b760ba0a96
+run_name: righteous-grub-259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783842192
+status: 3
+tags: []
+user_id: sarahilyas

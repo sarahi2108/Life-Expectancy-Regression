@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sarahilyas/Life_Expectancy_Regression/src/Training%20Pipeline/mlruns/306852458513944019/cddf31fc7d0f4021b1b3d4c329909220/artifacts
+end_time: 1765036906381
+entry_point_name: ''
+experiment_id: '306852458513944019'
+lifecycle_stage: active
+run_id: cddf31fc7d0f4021b1b3d4c329909220
+run_name: invincible-lark-671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765036906111
+status: 3
+tags: []
+user_id: sarahilyas

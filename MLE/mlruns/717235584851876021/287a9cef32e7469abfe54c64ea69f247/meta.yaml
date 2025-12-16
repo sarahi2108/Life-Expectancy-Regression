@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/287a9cef32e7469abfe54c64ea69f247/artifacts
+end_time: 1764783469318
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 287a9cef32e7469abfe54c64ea69f247
+run_name: bittersweet-lark-31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783468256
+status: 3
+tags: []
+user_id: sarahilyas

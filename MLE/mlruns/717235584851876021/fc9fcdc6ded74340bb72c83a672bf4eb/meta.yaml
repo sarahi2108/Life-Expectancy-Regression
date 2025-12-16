@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/fc9fcdc6ded74340bb72c83a672bf4eb/artifacts
+end_time: 1764763857473
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: fc9fcdc6ded74340bb72c83a672bf4eb
+run_name: delightful-shrew-448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764763856542
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/5b7ffa06de274b58bc5edfa096c6be23/artifacts
+end_time: 1764765591492
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 5b7ffa06de274b58bc5edfa096c6be23
+run_name: dazzling-midge-559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764765591226
+status: 3
+tags: []
+user_id: sarahilyas

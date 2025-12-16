@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/72053b797cb045b58329c495984d4fef/artifacts
+end_time: 1764763907573
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 72053b797cb045b58329c495984d4fef
+run_name: sassy-doe-894
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764763906895
+status: 3
+tags: []
+user_id: sarahilyas

@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/ffb9c0e377064004ae2cf8dc6ec0f048/artifacts
+end_time: 1764783170008
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: ffb9c0e377064004ae2cf8dc6ec0f048
+run_name: adorable-koi-554
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783169090
+status: 3
+tags: []
+user_id: sarahilyas

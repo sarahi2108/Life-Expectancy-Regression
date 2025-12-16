@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/13b3d1d480f540c59b49dfc4b36243ae/artifacts
+end_time: 1764783082750
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 13b3d1d480f540c59b49dfc4b36243ae
+run_name: whimsical-stag-919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783082144
+status: 3
+tags: []
+user_id: sarahilyas

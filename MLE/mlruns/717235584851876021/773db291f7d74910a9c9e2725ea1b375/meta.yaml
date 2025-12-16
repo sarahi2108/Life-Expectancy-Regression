@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/773db291f7d74910a9c9e2725ea1b375/artifacts
+end_time: 1764764164811
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 773db291f7d74910a9c9e2725ea1b375
+run_name: youthful-foal-293
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764764164513
+status: 3
+tags: []
+user_id: sarahilyas

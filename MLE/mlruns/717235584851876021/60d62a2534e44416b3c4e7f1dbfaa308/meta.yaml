@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/60d62a2534e44416b3c4e7f1dbfaa308/artifacts
+end_time: 1764762322333
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: 60d62a2534e44416b3c4e7f1dbfaa308
+run_name: amusing-squirrel-636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764762322006
+status: 3
+tags: []
+user_id: sarahilyas

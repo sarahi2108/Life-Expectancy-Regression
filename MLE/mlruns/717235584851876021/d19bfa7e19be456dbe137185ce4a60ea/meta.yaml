@@ -1,0 +1,14 @@
+artifact_uri: /Users/sarahilyas/Life_Expectancy_Regression/MLE/mlruns/717235584851876021/d19bfa7e19be456dbe137185ce4a60ea/artifacts
+end_time: 1764783194762
+entry_point_name: ''
+experiment_id: '717235584851876021'
+lifecycle_stage: active
+run_id: d19bfa7e19be456dbe137185ce4a60ea
+run_name: invincible-wren-549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764783193748
+status: 3
+tags: []
+user_id: sarahilyas
