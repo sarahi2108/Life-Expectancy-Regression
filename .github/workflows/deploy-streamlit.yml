@@ -1,0 +1,44 @@
+name: Deploy Streamlit to ECS
+
+on:
+  push:
+    branches: [ "main" ]
+    paths:
+      - "streamlit/**"
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ secrets.AWS_REGION }}
+
+      - name: Login to ECR
+        uses: aws-actions/amazon-ecr-login@v2
+
+      - name: Build & Push Streamlit Image
+        env:
+          AWS_ACCOUNT_ID: ${{ secrets.AWS_ACCOUNT_ID }}
+          AWS_REGION: ${{ secrets.AWS_REGION }}
+        run: |
+          docker build -t streamlit-app ./streamlit
+          docker tag streamlit-app:latest $AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com/streamlit-app:latest
+          docker push $AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com/streamlit-app:latest
+
+      - name: Force ECS redeploy (streamlit)
+        env:
+          ECS_CLUSTER: ${{ secrets.ECS_CLUSTER }}
+          ECS_SERVICE_STREAMLIT: ${{ secrets.ECS_SERVICE_STREAMLIT }}
+        run: |
+          aws ecs update-service \
+            --cluster "$ECS_CLUSTER" \
+            --service "$ECS_SERVICE_STREAMLIT" \
+            --force-new-deployment
